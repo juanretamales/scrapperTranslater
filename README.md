@@ -8,6 +8,8 @@ _________________________________
 
 Este proyecto en especifico es utilizar el traductor de Google para traducir ciertos textos de cierto juego, de forma automática.
 
+![ejemplo del archivo a traducir](https://raw.githubusercontent.com/juanretamales/scrapperTranslater/main/img/ejemplo.jpg)
+
 Para iniciarlo se deben instalar el lenguaje Python 3.X y las librerías utilizadas en el archivo scraperTranslate.py
 
 Y para empezar la traducción del archivo solo se deben ingresar los archivos en **readFolder** para traducirlos y guardarlos en **translated**.
