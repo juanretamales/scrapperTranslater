@@ -1,0 +1,734 @@
+V.1|2| 
+1|3| 
+1|| 
+2 | ¡Revisa cuidadosamente "Ubicaciones sospechosas" para ver qué puedes encontrar! | 
+3 | ¡Encontré el frasco viejo! | 
+4 | Nada especial ... | 
+5 | Según la cuenta del cliente, el tesoro debería estar enterrado aquí, ¡así que echemos un vistazo a las pistas! 
+6 | Encuesta "% | 
+7 | intenta domar "% | 
+8 | Necesitas las riendas de la rana delfín para domesticar a la rana delfín, ¡no olvides conseguirlas del comerciante de animales! 
+9 | ¡Maldita sea! ¡La domesticación no tuvo éxito! 
+10 | Tu dirección fue encontrada por ¡Debe hacerse en secreto! 
+11 | Medicina de investigación ¡Parece que antes! ¡Consígale una comisión detallada! 
+12 | ¡Tan pronto como entré en la aldea, escuché el rugido del dragón y la gente gritaba periódicamente! | 
+13 | Ve a la línea de defensa temporal frente a la aldea lo más rápido posible para ayudar a los aldeanos a resistir los ataques de los ladrones. 
+14 | ¡El olor a sangre venía del frente y parecía no estar lejos de la línea de defensa! | 
+15 | ¡De repente, un extraño rugido de dragón sonó desde lejos y entró lentamente con varios pasos! | 
+16 | Ayuda al capitán de seguridad. ¡Asalta y atrapa a los ladrones! 
+17 | ¡La penetración de las rapaces es muy débil! | 
+18 | ¡De repente, una gran cantidad de ladrones apareció en el bosque y parecieron atacar de nuevo a los defensores! | 
+19 | ¡Derrota a los ladrones que vuelven a invadir el pueblo! | 
+20 | ¡Muchos ladrones emergen detrás del bosque! 
+21 | ¡El ladrón que atacó la aldea fue derrotado y ya no podía representar una amenaza para la aldea! | 
+22 | Aparece una especie rara en el cabo ¡Encuéntralo y bátelo! 
+23 | Aparecieron especies raras en ¡Encuéntrelos y elimínelos! 
+24 | Aparecen especies raras en el mar, los árboles se están pudriendo, ¡encuéntralos y derrótalos! | 
+25 | ¡En los humedales pantanosos aparecen especies raras, encuéntralas y derrótalas! 
+26 | ¡Especies raras aparecen en el centro de la erosión, encuéntralas y derrótalas! | 
+27 | ¡Una especie rara aparece en el abismo de los pantanos, encuéntrala y derrota! 
+28 | ¡Una especie rara aparece en el bosque verde, encuéntrala y derrótala! | 
+29 | Aparecen especies raras en ¡Encuéntralo y bátelo! 
+30 | Aparecen especies raras en la mina abandonada ¡Encuéntralo y bátelo! 
+31 | Aparecen especies raras en ¡Encuéntralo y bátelo! 
+32 | ¡Aparecen especies raras en campos cálidos y ventosos, encuéntralas y derrótalas! 
+33 | ¡Ha aparecido una especie rara en la ciudad de Nuunfengqi, encuéntrala y derrótala! | 
+34 | ¡Una especie rara aparece en la cordillera de nieve helada, encuéntrala y derrótala! | 
+35 | ¡Una especie rara ha aparecido en los bosques helados, encuéntrala y derrótala! | 
+36 | Se requiere una caja de herramientas especial para el reemplazo de piezas, asegúrese de comprar en | 
+37 | ¡Domestica con éxito a la bestia rana! ¡Vuelve rápidamente con el comerciante de bestias! 
+38 | ¡Utilice una red para insectos y luciérnagas para atraparlos! | 
+39 | ¡Las luciérnagas están aquí y tienes que atraparlas más rápido! | 
+40 | ¡Usa el sello maldito del chamán en los racimos de luz de luna para recolectar esencia de luz de luna! 
+41 | Haz una hoguera | 
+42 | La hoguera se enciende lentamente, cuidado con las bestias (Tardó un rato en continuar el fuego) | 
+43 | El fuego de la hoguera aumenta gradualmente y los animales de los alrededores se enojan más. (Tomará un momento para que la luz continúe) 
+44 | ¡El fuego es perfecto! Las bestias circundantes se dispersaron sin prisa. 
+45 | Después de conseguir tus armas, sigues las instrucciones de Nicole para prepararte para ir al campo de entrenamiento e informar a tu asesor. 
+46 | Beat "% | 
+47 | Campo de formación, reunión de evaluación | 
+48 | Campo de entrenamiento de combate real | 
+49 | Foro de evaluación | 
+50 | De repente, un rugido de dragón sonó desde el frente, y un grupo de estudiantes experimentales corrió desde el frente en pánico ... | 
+51 | ¡Ayuda, ayúdame! | 
+52 | ¡Qué gran bestia dragón ... Corre, corre! 
+53 | Qué pasó ... veámoslo, puede ayudar | 
+54 | La bestia dragón frente a mí resultó gravemente herida ... ¡Me cuidé mucho y no la dejé ir! | 
+55 | Aquellos que no pasen las pruebas de combate reales no podrán ingresar a la arena de evaluación. 
+56 | Esto es ... ¡qué hace el capitán! | 
+57 | Aquí encontrarás a la bestia dragón ... ¡no te preocupes, detente! | 
+58 | ¡Ustedes dos, vengan conmigo rápidamente! | 
+59 |? | 
+60 | Por favor use, quién es recepcionista de Asumir las asignaciones para mejorar su propia fuerza | 
+61 | Vaya a los clubes de cazadores en diferentes áreas de Pala City para recibir misiones asignadas para mejorar su fuerza. | 
+62 | No solo es una oportunidad única de encontrar una especie rara por primera vez. ¡Pero también es una prueba que nunca fallará! 
+63 | El Cazador de Dragones que ha mencionado el Director Angel, no es fácil conseguir este título ... | 
+64 | temporizador y presionando "teclas de acceso rápido" y use el desplazamiento para evitar el aliento tóxico de | 
+65 | Presione la tecla de acceso rápido "tecla" para hacer que los caracteres se desplace, pero usará su valor | 
+66 | Profundo en el río 
+67 | El propio Joshua 
+68 | El propio Joshua 
+69 | El propio Joshua 
+70 | El propio Joshua 
+71 | El propio Joshua 
+72 | El fantasma. Agatharn, estás aquí, ¡aprendamos los detalles del trabajo de ella! 
+73 | ¡El sonido de las excavaciones parece haber despertado a una enorme bestia tendida en los fiordos! | 
+74 | ¡Cuidado con la bestia! ¡Presta atención a esquivar los ataques de tu oponente y derribarlo! 
+75 | Encuentra un escondite Usa la herramienta de excavación para averiguarlo ¡¿Está enterrado aquí ?! 
+76 | Sigue el camino hacia el bosque verde y ayuda a los clientes a encontrar trampas para colocar. | 
+77 | ¡Encontré la carcasa de sonido Arc Moon! ¡Date prisa para encontrar el siguiente lugar! 
+78 | Se ha encontrado una pila de huevos de dragón dañados y se utilizan herramientas de excavación para desenterrar especímenes ecológicos. 
+79 | Se utilizaron sacos de huevos dañados y herramientas de excavación para desenterrar especímenes ecológicos. | 
+80 | Se encontraron racimos de hongos dañados y se utilizaron herramientas de excavación para desenterrar especímenes ecológicos. 
+81 | El líder del equipo y otros miembros del equipo están discutiendo la estrategia, primero acuda al líder del equipo para comprender la situación. 
+82 | ¡Sigue los pasos del líder y espera a que el líder te dé un consejo! | 
+83 | ¡De repente, los pasos de la bestia dragón sonaron desde adelante! | 
+84 | ¡La Furia se sorprende por el ataque del capitán y huye horrorizada! | 
+85 | Siga los consejos de los líderes y siga detrás de escena | 
+86 | Fantasmas acechando aquí De repente, Agatha pareció bloquear el camino. 
+87 | ¡Sigue persiguiendo y no lo dejes correr! 
+88 | Un destello blanco loco bloquea la fuga de | 
+89 | Asesino de dragones Onowa lanza un poderoso hechizo para bloquear 
+90 | ¡Sigue persiguiendo y realizando rondas! | 
+91 | ¡La ira toca accidentalmente una trampa y aúlla de dolor! | 
+92 | Aprovecha Furis, afectado por el efecto trampa, ¡avanza y derrótalo! 
+93 | Captura el "% para obtener" | 
+94 | ¡Completa la ronda y completa la victoria! | 
+¡La rana ha perdido el control y está enojada contigo! 
+96 | Ir a la playa Ah c Mel para conocer a Agata | 
+97 | Basta con entrar en el mar de árboles erosionados, puedes sentir la extraña atmósfera aquí | 
+98 | Vaya a la ubicación designada para la misión y excave un ejemplo de un ecosistema que corroe el mar, los árboles. | 
+99 | Obtener un ejemplo ecológico de ¡Que está lleno de grietas y parece muy frágil! 
+100 | Vaya a la siguiente ubicación y busque otros ejemplos ecológicos | 
+101 | Obtuve una muestra ecológica de un saco de huevos dañado que resbaló al contacto. 
+102 | Vaya a la siguiente ubicación para buscar más ejemplos ecológicos | 
+103 | Después de recibir un espécimen ecológico, ¡aparecieron muchos pájaros gigantes mutantes del trueno! | 
+104 | ¡Repele al pájaro gigante del trueno mutante! 
+105 | ¡Expulsa al pájaro trueno gigante! Volvamos al ejemplo del ecosistema. 
+106 | ¡Entra en las llanuras en el centro de la erosión y busca rastros de luciérnagas! | 
+107 | ¡Ve a las profundidades del pantano y busca el raro grupo de cristales de luz de luna! | 
+108 | 
+109 | Ruta turística | 
+110 | Ed Plaza | 
+111 | Academia Militar | 
+112 | ¡Llegue al lugar de reunión en Abyss Pond, informe al líder del grupo rápidamente! | 
+113 | ¡En este momento, hay un rugido de dragón en la distancia! | 
+114 | ¡Tú y tu grupo se dirigen en la dirección del rugido del dragón, en lo profundo del abismo! | 
+115 | Después de reunirse con Agatha ¡Titudwa parece haber sido suspendido! 
+116 | Caparazón ¡Dezas Wada Ton y los racimos de cristal que lo rodean! 
+117 | Al cargar mineral Cuando terminó, se lanzó una ola de alegría y se lanzó una poderosa etiqueta. 
+118 | ¡Ayuda al grupo a deshacerse del mineral! | 
+119 | Sigue el camino del alquimista ¡Malinda preguntó sobre el contenido de la misión! 
+120 | ¡Barre al gato de mal de ojo alrededor de las ruinas para evitar que afecte la investigación! 
+121 | Ve a las ruinas de Y el alquimista ¡Reunión de Marinda! 
+122 | Tan pronto como llegué a los restos, vi a Malinda iniciando una investigación. | 
+123 | En este punto, te das cuenta de que la roca gigante que tienes delante parece moverse ligeramente, ¡date prisa y examínala! | 
+124 | ¡De repente, la roca gigante se movió y lentamente se elevó del suelo! | 
+125 | Cuando Agatha estaba a punto de avanzar y dar su golpe final, ¡el cuerpo de Desaward emitió una luz extraña! | 
+126 | El fantasma. Agatha te espera más adelante, date prisa y conocela. 
+127 | Sigue los consejos de Agatala cruza un pantano hasta la cima de una montaña y se encuentra con la alquimista Marinda | 
+128 | ¡Las ranas alrededor del pantano son muy feroces, ten cuidado de no provocar ira! | 
+129 | Sube a la cima de la montaña por el camino y conoce a la alquimista Marinda. 
+130 | Malinda comienza a acumular lentamente aura mutante a su alrededor | 
+131 | Durante la expedición de Malinda, protégela de las ranas erizo que se acercan. | 
+132 | Un grupo de ranas erizo atacan desde la vertiente oriental, ¡no dejes que afecte el progreso de la alquimia! 
+133 | ¡Otro grupo de delfines entra por el oeste, listos para pelear! | 
+134 | Están entrando muchos delfines de todo el mundo | 
+135 | ¡Resiste con éxito el ataque de la Bestia Rana! | 
+136 | Ayuda y sus aliados para conquistar ¡Eso muta con éxito! 
+137 | The Flash White Bind ha llegado antes al pantano del humedal, ¡y vamos a conocerlo primero! | 
+138 | Ve a las profundidades del pantano y encuentra Agatha. | Fantasma 
+139 | En Thea Gatha, de pie con un rostro sombrío rodeado de cadáveres de peces y dragones | 
+140 | Habla solo la mitad de Akata y No pude seguir. 
+141 | ¡Encuentra la trampa que se movió para ir y reclamar! | 
+142 | ¡El leopardo de cuernos azules mira hacia el cielo y grita para agradecerle! | 
+143 | ¡El leopardo de cuernos azules parece estar muy enojado, atacándote con sus dientes y garras! | 
+144 | La bestia dragón frente a ti está controlada por Alchemy y no puede moverse, ¡así que ataca ahora! | 
+145 | De repente, la bestia dragón lucha por liberarse de la esclavitud de la alquimia y huye presa del pánico. 
+146 | Vaya a la fuente de agua del bosque verde y recoja una muestra de los recursos hídricos cercanos. 
+147 | ¡Se han recolectado muestras aquí, luego vaya a la siguiente ubicación para recolectar! | 
+148 | Fuente de agua de ¡Termínelo y tráigalo de vuelta rápidamente! 
+149 | Cuerpo de leopardo con cuernos azul acabado ¡Pero parece notar tus ojos y huir rápidamente! 
+150 | Encontré un gran leopardo con cuernos azules, ¡apúrate y usa la herramienta de dibujo para dibujar un boceto! | 
+151 | Ahuyenta a las tortugas y las bestias, y podrás extraer el feldespato blanco escondido debajo de sus cuerpos. | 
+152 | El punto de control mencionado por el líder del grupo está más adelante, continúe. | 
+153 | ¡De repente oyes la feroz batalla desde delante! ¡Tengo que volver e informar al jefe! 
+154 | ¡Le informó al líder del grupo que había una batalla feroz no muy lejos! | 
+155 | Las bestias tortuga de piedra mueven su cuerpo y cavan rápidamente el feldespato blanco expuesto | 
+156 | Desalojo "Tortuga de piedra gigante" | 
+157 | ¡El comando vio que un cazador venía a apoyarlo, así que rugió al aire para retirarse! | 
+158 | Caza a la bestia dragón que robó los suministros de la aldea y recupera los suministros robados | 
+159 | ¡Y su equipo ya comenzó a discutir estrategias y aprendió rápidamente sobre las misiones del jefe! | 
+160 | Tan pronto como entres Verás cadáveres por todo el suelo. 
+161 | De pie entre los cadáveres disfrutando de una fiesta | 
+162 | Yuna carga hacia adelante tratando de detener a Bella Fomis. Pero fue despedido por ella | 
+163 | Justo cuando Bellafomis quería seguir atacando a Yuna, el hechizo pareció obligarla a retroceder. 
+164 | YuNa y tú están sorprendidos por la repentina aparición de Onova | 
+165 | Después de escuchar las palabras de Onova, la expresión de Yuna se estabilizó gradualmente | 
+166 | Después de hablar contigo, Yuna comienza a cantar encantamientos | 
+167 | Mientras Yuna cantaba, las flores y los árboles a su alrededor brillaban suavemente. | 
+168 | Ayuda a Anova a ser rápida y derrota a Bella | ¡Fumis! 
+169 | Solo dispara a Yoona para ver el brillo atrapado en el cuerpo de 
+170 | Sonido claro ¡Pero el más débil sonó, y sabes que era Bella Vermis! 
+171 | Mirando la luz tenue en el cuerpo, encontrará eso y hay la misma luz. | 
+172 | Onova se parece a ti y se sorprende de poder entenderlo | 
+173 | Parece deberse al hechizo de Que ustedes tres Yoona pueden entender las palabras de un dragón bestia 
+174 | Bella Vermis temblando repentina y violentamente, como si intentara reprimir algo. 
+175 | Después de despedirse Dai Yoon-ah terminó su vida de las lágrimas 
+176 | El líder del grupo apareció de repente detrás de un árbol y caminó hacia Yuna | 
+177 | El Líder suspiró suavemente y extendió la mano para golpear la cabeza de Yuna. 
+178 | El líder del grupo no puede evitar mirar a Yuna llorando de nuevo y volverse hacia ti y Onova | 
+179 | Onowa murmura para encontrar a Long Yu. Pero el jefe lo escuchó accidentalmente. 
+180 | Onova acostó apresuradamente a Long Yu y se fue. 
+181 | Por favor, sube la colina por la carretera para encontrar y recolectar los huevos tontos | 
+182 | ¡Encontré el huevo de Bobo! ¡Regréselo al cliente lo antes posible! 
+183 | ¡De repente, el pájaro tonto se ve rodeado por una presión extrema! | 
+184 | Evitar ¡Y sal de aquí lo antes posible! 
+185 | Los Angry Birds te están atacando uno a uno, ¡ten cuidado! | 
+186 | ¡Malo! ¡Huevos de pájaro estúpidos caen al suelo! 
+187 | Parece que no hay acción en este momento, continúe e informe el progreso al grupo de caza. 
+188 | Ahora es la temporada de apareamiento de las polillas gigantes de los árboles, hay huevos de insectos por todas partes, ¡ten cuidado de no dejar que la polilla gigante! | 
+189 | Bandadas de idiotas en el campo se alimentan tranquilamente, y el lugar parece vivo. 
+190 | ¡Los pájaros del frente te persiguen enojados! 
+191 | Grandes enjambres de pájaros estúpidos se acercan a ti, ¡debes encontrar una salida de aquí lo más rápido posible! | 
+192 | (Le dijiste a Yuna que lo más importante ahora es encontrar a Bella Vermis primero) | 
+193 | (Asiente y dice que sí) | 
+194 | Dirígete al punto de asistencia en carretera en el norte de la montaña y conoce 
+195 | De repente, aparecen furiosos pájaros marchitos alrededor de la estrecha carretera de montaña. 
+196 | Las sombras oscuras parecen destellar rápidamente en la distancia. Pero no estás seguro | 
+197 | Banyu terminó de correr hacia adelante y aplastó al pájaro gigante marchito. 
+198 | ¡Por favor, derrota a los pájaros gigantes marchitos! | 
+199 | Finalmente editado Atrapa rápidamente a Ben para encontrar la inteligencia de la figura. 
+200 | Por favor, ve a la fogata a prender fuego para ahuyentar a las bestias que ponen en peligro el pueblo | 
+201 | Ban te espera enfrente, con cara de enfado, mostrando que no ha encontrado nada. | 
+202 | Encuentra un leopardo Big Horn y su cuerpo en la vida | 
+203 | Por favor, encuentre el oso durmiente y la bestia y su cuerpo de la vida. | 
+204 | Bosquejo del oso animal terminado, ¡apúrate y vete antes de despertar! | 
+205 | ¡Encontré un perro dormido, un oso y una bestia, usa la herramienta de dibujo para dibujar un boceto! | 
+206 | Por favor busque Esa rabia y cuerpo de vida 
+207 | ¡Se acabó el cuerpo, salgamos antes de enojarnos! | 
+208 | Encontré un gato de dientes de hierro enojado, ¡usa la herramienta de dibujo para dibujar bocetos! | 
+209 | Encuentra al pájaro tonto dormido y dale vida | 
+210 | ¡Terminaste de dibujar y sal antes de despertar! | 
+211 | Encontré un pájaro estúpido sobre él, ¡apúrate y usa la herramienta de dibujo para dibujar un boceto! | 
+212 | Encuentra la gran canción fantasma Y la figura del día de la vida. 
+213 | Redacción completa de la canción fantasma. ¡Date prisa y sal a un lugar antes de que te entre el pánico! 
+214 | ¡Encontré un gran fantasma de Nautilus y rápidamente usé la herramienta de dibujo para dibujar bocetos! | 
+215 | Encuentra el gran cangrejo de cristal de hielo y su vida en la vida | 
+216 | El cuerpo del cangrejo de cristal de hielo está terminado, ¡apúrate y sorpréndete! | 
+217 | Encontré un enorme cangrejo de hielo, ¡apúrate y usa la herramienta de dibujo para dibujar un boceto! | 
+218 | Aunque la tortuga es lenta Pero es mejor no despertarlos fácilmente. 
+219 | Vaya a fuentes de agua del bosque separadas y tome muestras de los recursos hídricos cercanos. 
+220 | ¡Muestras completas de agua recolectadas aquí, ve a la siguiente ubicación para recolectar! | 
+221 | Recoger muestras de agua ¡Termínelo y tráigalo de vuelta! 
+222 | Ve a las áridas profundidades del bosque y conoce 
+223 | Herido, inmóvil en ese punto. 
+224 | Diane se apresura y se sorprende de las heridas de Bann. 
+225 | Powder levantó lentamente su mano temblorosa y señaló la flor frente a mí | 
+226 | Investiga "Objeto sospechoso" para ver si puedes encontrar pistas | 
+227 | Encuentra flechas envenenadas en flores y le dice a Diane los resultados | 
+228 | Busque el pato más grande y más pequeño y use una bolsa de alimentación para atraparlo. 
+229 | ¡Atrapa el pato estofado! | 
+230 | Por favor, consigue el pájaro devorador de lobos más pequeño y usa la bolsa de suplementos para atraparlo. 
+231 | ¡Come el lobo! 
+232 | Busque un dragón de dientes rojos más grande y use una jeringa para vacunar. | 
+233 | ¡Se acabó la inmunización! | 
+234 | Busque los pangolines gigantes más pequeños y use una jeringa para vacunar. | 
+235 | ¡Vacunación terminada! | 
+236 | Mi carrito | 
+237 | Transportar el camión al lugar designado | 
+238 | Llevando un coche de feldespato blanco | 
+239 | Transporte la grúa de feldespato blanco a su ubicación designada | 
+240 | ¡Al entrar en la árida cresta nevada, vi a muchos dragones lobo de hielo atacando la aldea! | 
+241 | Ayuda al equipo de defensa de la aldea a expulsar al dragón lobo de hielo atacante. 
+242 | ¡Barre a los dragones lobo de hielo por la aldea y hazlos retroceder! 
+243 | Los guardianes de la aldea están rodeados por un grupo de dragones lobo de hielo, ¡apúrate y ayúdalos! | 
+244 | Corriendo desde lejos | 
+245 | ¡Ban apuntó su espada al pequeño arbusto junto a él y gritó! | 
+246 | La mujer enmascarada saltó del árbol y se acercó a ti con gracia y tranquilidad | 
+247 | Las palabras de una mujer enmascarada revelan que te conoce. Pero no está impresionado con ella. 
+248 | El latido de una mujer con máscara en tono sombrío | 
+249 | Sorprendentemente, un ataque instantáneo y una carga hacia la mujer enmascarada. 
+250 | Grave insatisfacción de Afecta a la casa, la espalda de la mujer se mueve a una velocidad aparentemente lenta pero rápida. 
+251 | Una mujer con máscara se despide cortésmente, tras lo cual varias imágenes se dispersan en distintas direcciones. 
+252 | Habla con la luz estroboscópica blanca del costado para comprender el próximo plan de acción. 
+253 | ¡Si tienes algo que hablar con nuestro jefe! | 
+254 | Alimenta a la tortuga y ve a la siguiente ubicación | 
+255 | ¡Sorteo de comida! Con suerte, la tortuga joven podrá alimentarse completamente. 
+256 | Encuentra el pájaro tonto dormido y el cuerpo de la vida 
+257 | ¡Terminaste de dibujar y sal antes de despertar! | 
+258 | Encontré un pájaro tonto acostado sobre él, ¡apúrate y usa la herramienta de dibujo para dibujar bocetos! | 
+259 | Encuentra la gran canción fantasma ¿Y de dónde viene la vida? 
+260 | Boceto terminado ¡Date prisa y comienza el siguiente paso! 
+261 | ¡Encontré un gran fantasma Nautilus y usé una herramienta de dibujo rápido para dibujar bocetos! | 
+262 | Encuentra el gran cangrejo de cristal de hielo y su vida 
+263 | ¡El cuerpo del cangrejo de cristal de hielo está terminado, apúrate y comienza el siguiente paso! | 
+264 | Encontré un enorme cangrejo de hielo, ¡apúrate y usa la herramienta de dibujo para dibujar un boceto! | 
+265 | ¡Los pájaros se tambalean, tratan de recopilar información sin llamar la atención! | 
+266 | Ir a un campo de viento cálido para recopilar datos ambientales de una ubicación específica | 
+267 | Aquí se han recopilado datos medioambientales, ¡luego vaya a la siguiente ubicación para recopilarlos! | 
+268 | Completar la recopilación de datos ambientales de Warmwind Tahara y recuperarla lo antes posible | 
+269 | Los pájaros marchitos son muy agresivos, ¡así que ten cuidado con sus ataques mientras gatean! | 
+270 | Ir y recoger muestras geológicas de lugares específicos | 
+271 | ¡El espécimen geológico ha sido recolectado aquí, luego ve a la siguiente ubicación para recolectarlo! | 
+272 | Muestras geológicas recolectadas de ¡Termínelo y tráigalo de vuelta lo antes posible! 
+273 | Este sitio alberga dragones ocultos, así que ten cuidado de no ser presa cuando vayas a recolectar los especímenes geológicos. 
+274 | Ve a la cresta de nieve seca para recolectar muestras geológicas de lugares específicos | 
+275 | ¡El espécimen geológico ha sido recolectado aquí, luego se procedió a la siguiente ubicación para recolectarlo! | 
+276 | ¡Recolecta muestras geológicas de la árida cordillera nevada y retíralas lo antes posible! | 
+277 | Los lagartos del bosque nevado están cazando, así que presta atención a sus ataques cuando recolectes cristales de hielo. 
+278 | Adéntrate en el bosque árido y recoge cristales de hielo de cualquier lugar | 
+279 | ¡Aquí se ha recogido una muestra de cristales de hielo, luego ve a la siguiente ubicación para recoger! | 
+280 | Recoge muestras de cristales de hielo del bosque Después de completarlo, llega el delirio de las heladas, ¡tráelo pronto! 
+281 | Atacará activamente a los forasteros que invadan sus hogares, y deben tener cuidado al recopilar información ambiental. 
+282 | Vaya a bosques profundos y áridos para recopilar datos ambientales en lugares específicos | 
+283 | Aquí se han recopilado datos medioambientales, ¡luego vaya a la siguiente ubicación para recopilarlos! | 
+284 | Se recopilaron datos ambientales forestales. ¡Entonces Poe llega a las heladas y vuelve pronto! 
+285 | Tan pronto como se suelta la trampa, el mapache lomo blanco huyó horrorizado. 
+286 | Se colocó comida para los dientes de topo en la siguiente posición | 
+287 | ¡Comida de regalo! Espero poder comer lo mejor | 
+288 | Dieta para Ya se colocaron los tosaurios, así que ve a la siguiente posición. 
+289 | ¡Comida de regalo! Espero que Ithyosaur esté lleno 
+290 | Busque un mapache blanco más grande y use una jeringa para vacunar. | 
+291 | ¡Se acabó la vacunación! | 
+292 | ¡Ayuda a los clientes a recuperar trampas y expulsa al dragón lobo de hielo que cayó en una trampa! | 
+293 | Tan pronto como se suelta la trampa del dragón del lobo de hielo, te ataca furiosamente | 
+294 | ¡Busca un mapache blanco que haya caído en una trampa en el campo, recoge la trampa y suelta al mapache! | 
+295 | Busque el Dragón lobo de hielo más pequeño y use una jeringa para vacunar | 
+296 | ¡Encontré herramientas de boceto grandes, uso para dibujar bocetos! | 
+297 | Haz contacto visual con tus ojos penetrantes y escóndete en la timidez | 
+298 | En lo profundo de la cordillera de nieve helada y convoca a los niños perdidos lo más rápido posible | 
+299 | Conoce a los aldeanos que empacan sus pertenencias en el bosque árido por seguridad. 
+300 | Encuentra una hormiga roja más grande y usa la bolsa de reparación de animales para atraparla. | 
+301 | ¡Atrapa a las grandes hormigas rojas! 
+302 | El cangrejo monstruo marino parece caminar por la costa del cabo. ¡Encuentra rápidamente su paradero y deshazte de él! 
+303 | ¡El cangrejo marino roe a las morsas muertas y las derrota! | 
+304 | ¡Los escarabajos gigantes están locos por las especies nativas que corroen el mar, los árboles, avanzan y los derrotan! | 
+305 | Escarabajo ¡Escarabajo gigante indígena en un pantano, sal y golpéalo! | 
+306 | ¡El escarabajo gigante camina hacia el noroeste del núcleo corroído, buscando rápidamente su paradero y eliminándolo! | 
+307 | Parece que el escarabajo gigante está descansando, ¡así que apúrate y tíralo! | 
+308 | ¡Los dragones garra roja dientes de cadena se enfrentan al leopardo cuerno azul y se apresuran a derrotarlos! | 
+309 | ¡El dragón de garras rojas y dientes de cadena se enfrenta a la bestia oso y se apresura a derrotarlos! | 
+310 | El dragón de garras rojas con dientes de cadena está enojado por las especies nativas en la mina Eso fue abandonado por Ish, ¡ven y derrótalo! 
+311 | El dragón de garras rojas parece estar comiendo, ¡apúrate y aprovecha esta oportunidad para derribarlo! | 
+312 | El Camaleón Dragón de Cristal Oscuro está loco por las especies nativas ¡Anímate y golpéalo! 
+313 | Dark Crystal Dragon Chameleon está loco por las especies nativas de ¡Anímate y golpéalo! 
+314 | Dark Crystal Dragon Lizard está enojado con las especies autóctonas en la cresta de nieve helada, ¡sal y derrótala! | 
+315 | Los lagartos dragón de cristal oscuro están enojados con las criaturas indígenas del bosque profundo y estéril. ¡Ven y derrótalo! 
+316 | La mujer enmascarada se fue rápidamente después de despedirse, y Ben la miró molesto. 
+317 | Conoce a los aldeanos que trabajan en Para cuidar la seguridad | 
+318 | El dragón original está atado por la magia. Pero su poder aún no puede ser ignorado y se apresuró a regresar a Para City para informar a Agatha. 
+319 | Habla con [o lvis] [hey] Cierra la interfaz de fundición a través del selector y completa un equipo | 
+320 | Usa la maldición del chamán para extraer la energía de la luz de la luna | 
+321 | Usa con éxito la Marca de hechizo para recibir la energía de la luz de la luna del Cúmulo de cristal de la luz de la luna | 
+322 | Se encuentra una madera rota usada en camuflaje, ¡apúrate y sácala para arreglar una herramienta hecha por el hombre! | 
+323 | ¡Se ha encontrado un montón de huesos de animales de camuflaje, limpios rápidamente para arreglar el instrumento artificial! 
+324 | Encontré un arbusto de hongos para camuflar, ¡apúrate a reparar el instrumento de imitación! | 
+325 | Después de experimentar grandes y pequeños eventos y una gran caza, estás muy emocionado ... | 
+326 | Quizás el Camino de los Cazadores esté plagado de dificultades. Pero en este momento has considerado ¡"Convertirse en un cazador legendario" es ahora su objetivo profesional! 
+327 | Monta en el lagarto cocodrilo mutante lo antes posible para ahuyentar al cangrejo ermitaño hoz gigante y rescatar a los miembros del grupo de caza atrapados. 
+328 | Monta el parásito, agarra su corteza y ve lo más rápido que puedas para derrotar al escarabajo gigante que causa el caos salvaje. | 
+329 | Monta una raya y ve lo más rápido que puedas para destruir el escarabajo gigante furioso en el cañón. | 
+330 | Monta la espada de rinoceronte y ve lo más rápido que puedas para liberar a los dragones de garras rojas que se alimentan de las llanuras. 
+331 | Monta en el pterosaurio acorazado y ve tan rápido como puedas para derrotar al Dragón Escarlata. Quien entró a la casa por error. 
+332 | Monta en el dragón de roca gigante y ve tan rápido como puedas para destruir a los dragones de cristal oscuro que cazan en las llanuras. | 
+333 | Por favor, monta en el dragón ciego y ve lo más rápido que puedas para destruir los dragones de cristal oscuro que matan indiscriminadamente en la nieve. 
+334 | Monta sobre el cerdo feroz y ve a derrotar al cangrejo gigante lo antes posible | 
+335 | ¡Haz clic con el botón izquierdo en el icono del objeto de recompensa por trabajo para seleccionar el equipo de recompensa por trabajo apropiado! 
+336 | Esta es la etapa preparatoria, debes esperar a que comience la guerra antes de poder teletransportarte. 
+337 | ¡Tienes que esperar hasta que comience el campo de batalla para poder salir de los obstáculos! | 
+338 | ¡Después de una amarga batalla, has derrotado con éxito al Cangrejo! | 
+339 | Por favor móntalo y contrólalo para matar a la morsa que ataca desde todas las direcciones | 
+340 | ¡Un montón de morsas se reúnen de todas las direcciones, controlan rápidamente a los cangrejos para matarlos! | 
+341 | El número de morsa parece estar disminuyendo gradualmente. Pero todavía hay muchas morsas a tu alrededor. 
+342 | ¡La morsa se aleja lentamente y usted puede desterrar con éxito a la morsa! | 
+343 | [= 'Color] [='] ¡Derrota con éxito a la primera ola de dragones y prepárate para el próximo desafío! 
+344 | [= '] [= Color'] ¡Completa la segunda oleada de la Bestia Dragón y prepárate para el próximo desafío! 
+345 | [= '] [=' Color] ¡Completa la tercera ola de Dragon Beast y prepárate para el próximo desafío! | 
+346 | [= '] [='] ¡Derrota a la cuarta ola de bestias y prepárate para el próximo desafío! 
+347 | [= '] [=' Color] ¡Completa la quinta oleada de la Bestia Dragón y prepárate para el próximo desafío! 
+348 | [= Color '] [='] ¡Completa la sexta oleada de la Bestia Dragón y prepárate para el próximo desafío! | 
+349 | [= 'Color] [='] Derrota con éxito al séptimo dragón, ¡listo para el próximo desafío! 
+350 | [= 'Color] [='] Derrota con éxito al octavo dragón, ¡listo para el próximo desafío! 
+351 | [= Color '] [='] Completa la novena bestia dragón, ¡listo para el próximo desafío! 
+352 | [= '] [= Color'] ¡Derrota con éxito a la décima bestia de un dragón y prepárate para el próximo desafío! 
+353 | [= Color '] [='] ¡Completa la undécima bestia dragón y prepárate para el próximo desafío! 
+354 | [= '] [=' Color] ¡Completa la 12ª Bestia Dragón y prepárate para el próximo desafío! 
+355 | [= '] [=' Color] ¡Derrota con éxito a la 13ª bestia dragón y prepárate para el próximo desafío! 
+356 | [= '] [= Color'] Derrota con éxito al 14º Dragón, ¡listo para el próximo desafío! 
+357 | [= 'Color] [='] Derrota con éxito al 15.º Dragón, ¡listo para el próximo desafío! 
+358 | [= '] [=' Color] ¡Completa la 16ª ronda de monstruos y prepárate para el próximo desafío! 
+359 | [= 'Color] [='] Derrota con éxito al decimoséptimo dragón, ¡listo para el próximo desafío! 
+360 | [= 'Color] [='] ¡Completa la decimoctava bestia dragón y prepárate para la siguiente ronda de desafíos! 
+361 | [= '] [= Color'] Derrota con éxito a la bestia del decimonoveno dragón, ¡listo para el próximo desafío! 
+362 | [= '] [=' Color] ¡Completa la última oleada de la Bestia Dragón y prepárate para el próximo desafío de reencarnación! 
+363 | [= 'Color] [='] ¡Derrota con éxito a la primera ola de dragones y prepárate para el próximo desafío! | 
+364 | [= '] [='] ¡Completa la segunda oleada de la Bestia Dragón y prepárate para el próximo desafío! 
+365 | [= '] [=' Color] ¡Completa la tercera ola de Dragon Beast y prepárate para el próximo desafío! | 
+366 | [= 'Color] [='] ¡Derrota con éxito a la cuarta ola de bestias y prepárate para el próximo desafío! 
+367 | [= 'Color] [='] Completa la quinta oleada de la bestia dragón, ¡listo para el próximo desafío! 
+368 | [= Color '] [='] ¡Completa la sexta oleada de la Bestia Dragón y prepárate para el próximo desafío! 
+369 | [= '] [=' Color] Completa la séptima bestia dragón, ¡listo para el próximo desafío! 
+370 | [= '] [='] Completa la octava bestia dragón, lista para el próximo desafío | 
+371 | [= 'Color] [='] Derrota con éxito a la novena bestia dragón, ¡listo para el próximo desafío! 
+372 | [= Color '] [='] ¡Derrota con éxito al décimo dragón monstruo y prepárate para el próximo desafío! 
+373 | [= Color '] [='] ¡Completa la undécima bestia dragón y prepárate para el próximo desafío! 
+374 | [= '] [=' Color] Completa la 12ª bestia dragón, ¡listo para el próximo desafío! 
+375 | [= '] [='] ¡Completa la decimotercera bestia dragón y prepárate para el próximo desafío! 
+376 | [= 'Color] [='] Completa la 14ª Bestia Dragón, ¡listo para el próximo desafío! 
+377 | [= 'Color] [='] Completa la decimoquinta bestia dragón, ¡listo para el próximo desafío! 
+378 | [= '] [= Color'] Derrota con éxito a la bestia del 16º dragón, ¡listo para el próximo desafío! 
+379 | [= '] [='] ¡Derrota a la bestia del decimoséptimo dragón y prepárate para el próximo desafío! 
+380 | [= '] [=' Color FFCC '] Completa la decimoctava bestia dragón, ¡listo para el próximo desafío! 
+381 | [= '] [= Color'] Derrota con éxito a la bestia del decimonoveno dragón, ¡listo para el próximo desafío! 
+382 | [= '] [= Color FFCC' '] ¡Completa la última ola de la Bestia Dragón y prepárate para la siguiente ronda del Desafío Samsara! | 
+383 | ¡Puede conocer la noticia del anciano, escríbale para preguntarle! | 
+384 | Una especie rara aparece en la meseta del Sol abrasador. ¡Búscala y derrótala! | 
+385 | Una especie rara aparece en las Montañas de la Llama Negra. ¡Búscalas y derrótalas! | 
+386 | Gusano de la cadena ósea que destruye especies nativas en las tierras altas ¡Sal y golpéalo! 
+387 | Los gusanos de la cadena ósea están frenéticos en las especies autóctonas de las montañas. ¡Anímate y golpéalo! 
+388 | ¡Se come una araña peluda inusual y aprovecha la oportunidad para derribarla rápidamente! | 
+389 | ¡De repente, varios Dark Dragon Slayer aparecen en todas direcciones para atacarte! 
+390 | ¡Ataca al enemigo! ¡Proteja a Su Majestad! 
+391 | ¡Es solo un puñado de peones, mátalos! | 
+392 | Viendo que la situación no era correcta, el resto del Ejército del Dragón Oscuro se retiró en general. 
+393 | Por aquí Toma a los miembros de tu equipo y vete 
+394 | Hay cadáveres de soldados del Ejército del Dragón de Fuego por todas partes, lo cual es terrible. 
+395 | Aetna parece ser un poco cautelosa e incapaz de resistir los ataques de los Embajadores del Dragón Oscuro | 
+396 | ¡Los dientes de la serpiente de cascabel se pararon frente a todos, y al mismo tiempo vieron a Edna Zhang avanzar! | 
+397 | Déjanoslo a nosotros, aquí tú y ¡Ayudará a Tiya Queen! 
+398 | Aetna persigue al mensajero Y entra en la tierra sellada | 
+399 | Cae todos los "Colmillos acechadores" y date prisa para atrapar a Aetna | 
+400 | Después de que te caigas Estás escuchando que el acosador entrará en la tierra sellada ... 
+401 | De repente, la luz parpadea y el Rey Dragón Divino aparece ante ti | 
+402 | Cuando la voz se apagó, la inquietud del Rey Dragón Oscuro desapareció sin dejar rastro. | 
+403 | Sigue los pasos de la pelirroja | ¡Edna! 
+404 | No hay tráfico aquí | 
+405 | Acceda a la Guía de flechas para ayudar a Edna | 
+406 | Todavía tengo negocios que hacer, estoy un poco más cerca | 
+407 | No ... ¡Ni siquiera pienses en irte! | 
+408 | ¡Tienes que estar al día con estas molestas soluciones rápidas! | 
+409 | Sólo una araña inusualmente peluda está rodeada de ningún rastro de vida humana. | 
+410 | Parece ser una combinación de ungulado y John no debería haber vivido aquí. | 
+411 | Onowa y Yuna están cerca, podrían encontrar algo. | 
+412 | Miras a tu alrededor con atención y descubres que no hay nada extraño | 
+413 | ¡Cuando te acercas a Assassin, han aparecido muchos dragones oscuros! | 
+414 | Varias llamas explotan en el cielo rápidamente y se disparan, y los aliados de Próximamente | 
+415 | Hay muchos menos soldados en el fuerte Lao Wakid, ¿qué pasa? 
+416 | ¡Hay muchos cadáveres de soldados dragón de fuego frente a ti, ve a echar un vistazo! | 
+417 | De repente ¡Apareció de la oscuridad! 
+418 | Encuentras a Virtiya observando a Roca y parece haber encontrado algo | 
+419 | ¡La serpiente de cascabel vuelve a aparecer! ¡Lanzamiento para lastimar a todos! 
+420 | ¡Este es tu cementerio! | 
+421 | Cuerpo ... | 
+422 | Pendiente ... | 
+423 | Movido ... | 
+424 | Oh, esto es una trampa ... | 
+425 | ¡Habla con Lydia y súbete al dirigible! | 
+426 | ¡Debes entrar en la Tierra Sellada lo más rápido posible para evitar que se desbloquee el Sello! | 
+427 | No tengo mucho tiempo para preocuparme por eso, tengo que averiguarlo. ¡Véalo pronto! 
+428 | La Fortaleza de Lava ha sido invadida por la Bestia Dragón, ¡lucha lo antes posible! | 
+429 | Tan pronto como entras en el lugar donde Christopher habla, estás rodeado por cinco enormes hierros ... | 
+430 | ¡Parece que esto es la formación de una pasión y debes encontrar la manera de destruir estos monumentos! | 
+431 | Estos robos anónimos están escritos y solo pueden destruir un acero a la vez. | 
+432 | Has destruido con éxito el primero, busca. Más destruido | 
+433 | Has destruido con éxito el segundo, busca. Más destruido | 
+434 | Has destruido con éxito el tercer acero, a dos cuadras de distancia para deshacerte de este ojo. 
+435 | ¡Has logrado destruir el cuarto acero y la tarea de eliminarlo está casi terminada! | 
+436 | Has destruido todo el acero, ahora sientes los fuertes temblores debajo de tus pies ... | 
+437 | (Has sido traído de regreso por una fuerza misteriosa, parece que todos los Aceros deben ser destruidos para salir de aquí ...) | 
+438 | Parece que has destruido con éxito tu primer ataque ¡Ve y dile a Christopher buenas noticias! 
+439 | Entras en lo que dijo Christopher. Pero lo que aparece ante ti es un vacío ... | 
+440 | Cuando estás confundido, Christopher viene de lejos | 
+441 | Los ojos de esta matriz están llenos del poder mágico del lanzador, y los ojos de la gente común no pueden penetrar sus secretos. 
+442 | Ahora me llevaré el misterio contigo y compartiré mi visión contigo | 
+443 | Al principio puede que te sientas un poco incómodo. Pero una vez que te acostumbres, descubrirás el secreto de mis ojos a través de mis ojos. 
+444 | Después de que Christopher te hechizó, te sentirás mareado al instante ... | 
+445 | Pero cuando vuelves a abrir los ojos, te encuentras con muchas ranas que nunca antes habían estado. | 
+446 | La clave para eliminar esta formación está en estas ranas. | 
+447 | ¡Tenga en cuenta las diferencias entre estos mineros con cuidado, la clave para destruir el muro debe estar escondida en unas pocas criaturas de rana! 
+448 | Para derrotar este ataque, repele todas las ranas venenosas con diferentes características | 
+449 | Christopher: "¡Alto! Si golpeas accidentalmente a una rana sin importancia mientras canta, hará que todas las ranas venenosas mutantes renazcan ". 
+450 | Estos aceros se cantan milagrosamente, y solo debe haber uno que se pueda romper ... | 
+451 | (Eres devuelto por una energía misteriosa a tus ojos, parece que tienes que expulsar a todas las ranas venenosas mutantes de aquí ...) | 
+452 | ¡Ranas tóxicas mutantes en la lujuria, todas reencarnadas! Tenga en cuenta que si la rana no crítica muere accidentalmente, el encantamiento se reiniciará. 
+453 | Has matado con éxito a la primera rana venenosa mutada en una matriz y la defensa de la barrera sigue disminuyendo. 
+454 | Has matado con éxito a la segunda rana venenosa mutante en una matriz y la defensa de la barrera está muy debilitada. 
+455 | Has matado a todas las ranas venenosas mutantes, ahora sientes un fuerte temblor bajo tus pies ... | 
+456 | ¡Parece que has destruido tu segundo ojo con éxito, ve y dile a Christopher las buenas noticias! | 
+457 | (Te trae de vuelta una energía misteriosa en tus ojos, parece que tienes que completar la tarea antes de poder salir de aquí ... | 
+458 | Usted y Christopher se adentran en la vista del noroeste y, sin saberlo, se encuentran rodeados de pájaros gigantes atronadores. 
+459 | Thunder King Bird: "El grupo del cubo de arroz, lo que puedes hacer todo el día pero hacer daño" | 
+460 | Thunder Bird King: "¡Date prisa y dime qué cosas humillantes hiciste hoy!" | 
+461 | Yo ... yo ... lo robé ... galletas de ... | Bob Le 
+462 | Ayer ... mira ... gatito mono ... báñate ... | 
+463 | Yo ... todo el día ... duermo ... | 
+464 | "¡Bastardo!" | 
+465 | "¿Y tú? ¿Qué estás haciendo estúpido hoy? "| 
+466 | (Encuentras un pájaro gigante que truena frente a ti, hablándote con los ojos bien abiertos ...) | 
+467 | (Se apresuró a agitar la mano para rechazar Pero el pájaro trueno gigante frente a ti no parece contento con la respuesta) | 
+468 | Rey Pájaro Relámpago: "Está bien, no necesito una respuesta, ¿tú? ¡Entonces deja que todos prueben el castigo del rayo!" | 
+469 | ¡Cuidado! ¡Este rey pájaro gigante del trueno está a punto de recibir el castigo del trueno que cae, y debe encontrar la manera de evitar estos hechizos! 
+470 | ¡Si te golpea constantemente el trueno que cae, no podrás destruir esta vista! ¡Corre! 
+471 | Rey Pájaro Relámpago: "¡Corre! ¡Un cubo de arroz! ¡Déjame ver si mi rayo está bien! "| 
+472 | "Parece muy poderoso ... Puedo ver cuánto tiempo puedes correr ~" | 
+473 | "¡Es hora de usar un truco! ¡¡¡Diez veces bombas de trueno !!! "| 
+474 | Tras el devastador ataque que arrasó el mundo, el pájaro gigante castigado huyó ... | 
+475 | ¡Y tienes la suerte de sobrevivir al ataque del Rey Pájaro del Trueno! | 
+476 | "..." | 
+477 | Parece que nos hemos librado con éxito de este patrón y es hora de hablar con el encantamiento. 
+478 | Cuando tú y Sen Zheng regresan al campamento, encuentran a Lucy tirada en el suelo sola ... | 
+479 | Al ver esto, Zen inmediatamente corre hacia Lucy | 
+480 | ¡Midori! !! | 
+481 | Un grupo está charlando en el fuego, y Sen Zheng hace muchas preguntas sobre la situación aquí | 
+482 | También hablas mucho sobre la forma de vida aquí después de escuchar Y luego te sorprende Zen por sorpresa | 
+483 | Pero Lucy estaba completamente atónita ... | 
+484 | Parece que las tradiciones aquí son muy diferentes a nuestros estilos de vida normales | 
+485 | Gracias por tu explicación, duo es genial | 
+486 | (No tienes que ser cortés si te das la mano para meditar) | 
+487 | No, de hecho, me gustaría disculparme por cualquier irregularidad que haya sufrido anteriormente. 
+488 | Después de una conversación en profundidad, puedo entender mejor que tienes un corazón amable y honesto | 
+489 | me siento confundido y sin resolver ... | 
+490 | Espero que encuentre metas que valga la pena perseguir lo más rápido posible y lejos del dolor. | 
+491 | (Asiente con la cabeza y le agradece a Zen Zheng) 
+492 | Solo que el karma asesino de la bruja es demasiado pesado ... No sé cuántas vidas ... | 
+493 | Duermes en un lugar hasta altas horas de la noche | 
+494 | Hasta que Zen Zheng te despierte que amanece ... | 
+495 | Después Y los aldeanos se fueron Poco a poco se hizo a un lado ... | 
+496 | Inesperadamente, en este mismo momento, ¡de repente, aparece un parásito de concha que emite un brillo verde! | 
+497 | Has ahuyentado a los moluscos parásitos, interesada en que Lucy se esconda junto a ella, su cara no se ve bien ... | 
+498 | Después de pelear Debes darte prisa para cuidar tus heridas. 
+499 | inesperado O zi te dice "lo siento" y sientes la oscuridad frente a ti ... | 
+500 | (La perspectiva de la historia cambia a Zen Zheng corriendo de regreso a la aldea con los aldeanos cuando te desmayas ...) | 
+501 | Llamar ... Llamar ... Llamar ... Traigo refuerzos, espero que los guerreros nos ayuden a resistir a esas bestias | 
+502 | Mientras Chan Zheng todavía se estaba enterando de la situación por los aldeanos, la escolta herida corrió tímidamente hacia aquí. 
+503 | La bestia enloquecida por razones desconocidas ataca la aldea de nuevo ... | 
+504 | Si continúa así, el pueblo se derrumbaría, ejem ... ejem ... | 
+505 | (¡Diles inmediatamente a los aldeanos que los aldeanos son amables consigo mismos, así que que protejan la aldea!) | 
+506 | ¡Ten cuidado! ¡Un grupo de bestias se inclina hacia aquí, toma sus brazos y prepárate para luchar! 
+507 | Zen protege la aldea para los aldeanos Mori mientras te desmayas | 
+508 | Ahora tienes que asumir el papel. Para completar esta importante misión, ven y ayuda a los aldeanos a luchar contra bestias locas. 
+509 | ¡Este tipo es bueno! Han practicado ~ | 
+510 | ¡Dios mío! Puede cruzar fácilmente presionando tres ~ | 
+511 | ¡La bestia se retira! Dios tiene que enviar a este héroe para ayudarnos ~ | 
+512 | Otro grupo de bestias ha entrado en el pueblo, ¡ten cuidado! | 
+513 | El último grupo de bestias se acerca siempre que puedan defenderse de los invasores para garantizar la seguridad de la aldea. | 
+514 | Después de una feroz batalla, has logrado expulsar a la bestia. ¡Buenas noticias para los aldeanos! | 
+515 | Cuando Zhan Zheng y los aldeanos se regocijaron porque habían defendido con éxito la aldea. | 
+516 | Una explosión sonó desde el noroeste del pantano ... | 
+517 | Zen Zheng supo de inmediato que el lugar donde ocurrió la explosión era donde él acampaba con Lucy. 
+518 | Expresión de Cambiado, se volvió y corrió hacia el noroeste 
+519 | (Y debido a la explosión, tú y tu pareja se despertaron gradualmente del coma ...) | 
+520 | (Poco a poco recuperas la conciencia Pero sientes dolor en la nuca ...) | 
+521 | (Y ya sabes Donde Lu Zi está parado frente a ti ya no está aquí) | 
+522 | En este momento, una explosión sonó desde el noroeste ... | 
+523 | ¡Ve a investigar y mira qué pasa! | 
+524 | Hay una explosión y sientes que la fuente del sonido se acerca cada vez más ... 
+525 | Mientras corres hacia la fuente de la explosión, encontrarás a Christopher parado frente a él con una cara muy feliz. | 
+526 | ¡Vamos, las ruedas están por delante! | 
+527 | Christopher ha destruido con éxito el muro, síguela para explorar la verdad de todos los misterios | 
+528 | Qué ... Lucy es una fuente de magia encantadora, no ... no ... se vuelve así ... | 
+529 | Christopher y tú llegan inesperadamente a una fuente de magia encantadora, la que aparece aquí es Lucy que cayó al suelo ... | 
+530 | Usted y Christopher fueron transportados juntos a un lugar desconocido. | 
+531 | Tienes dolor de cabeza y no sabes cómo llegaron las cosas aquí ... | 
+532 | Y cuando Christopher agacha la cabeza y murmura para sí mismo, encuentras una poderosa intención asesina entre bastidores. 
+533 | (Apareciendo detrás de ti a la velocidad del rayo está Zen Zheng, que acababa de llegar de Mori Village después de escuchar la explosión) 
+534 | "¡Bruja! ¡Y tu! ¿Por qué estás aquí con ella? ¿Qué estás haciendo con "| 
+535 | ¡Bruja! Por la mañana siento que estás horrible. Pero no esperaba que atacaras o zi | 
+536 | También ahuyenta a las bestias para atacar pueblos y cometer actos crueles como este | 
+537 | ¡Y tú! Creo que eres ridículo, ¡no esperaba que te unieras a la bruja para hacer algo con Lucy! 
+538 | | 
+539 | (Encuentras que Zheng Zheng apenas puede calmar su ira, agitaste tu mano negando y querías explicar todo esto ...) | 
+540 | ¡Usa tu vida para compensar todo esto! !! | 
+541 | ¿Cavar una caja llena de tierra? ! ¡Abra la caja! 
+542 | ¿Cavar aves rapaces cubiertas de barro? ! ¡Derrota al ladrón ahora! 
+543 | "Jay Ferrara: La casa de la mansión abrió una pequeña cena, ¡todos pueden participar!" | 
+544 | "Jeferra: El río de la mansión abre un espléndido banquete; ¡todos son bienvenidos a unirse a nosotros!" | 
+545 | "Sesame Ferrara: Se acabó el tutor de esta familia, ¡gracias por tu participación!" | 
+546 | "Forra: El jefe de la mansión abrió una fiesta. ¡YVIPndee da la bienvenida a todos a unirse a nosotros! "| 
+547 |? Piso | 
+548 |? Segundo piso | 
+549 | Nivel 3 | 
+550 | Palamuang Road, cuarto piso | 
+551 |? Quinto piso | 
+552 |? Piso seis | 
+553 | Palamuang Road, séptimo piso | 
+554 | Palamueng Road, 8vo piso | 
+555 | "Manee: ¡La entrada al nivel inferior del túnel de la mina parece haber sido cerrada y encuentra una manera de romperla!" | 
+556 | Manee: "Vaya ... qué pasó con este terremoto ... ¡Podría ser que haya aparecido la guardia del túnel de la mina!" | 
+557 | "Making Manee: ¡Muy bien! Resulta que mientras superes ¡Sí, Guardián, podrás desbloquearlo al siguiente nivel! "| 
+558 | Manee: "Entonces bajaré primero, ustedes seguirán ~" | 
+559 | Manee: "Wow ... ¿¡Por qué hay otro terremoto !?" | 
+560 | "¡Derrota de nuevo y pasa al siguiente nivel!" | 
+561 | Mani: "Parece que no hay un piso siguiente, creo que deberíamos volver a ¡Antes de que se derrumbe el túnel de la mina! "| 
+562 | Entrar "y completar la aventura de la mina | 
+563 | Entrar "y completar la aventura de la mina | 
+564 | Manee: "No parece haber un Guardián molesto en este nivel ~ ¡Sigamos!" | 
+565 | Nivel 1 | 
+566 | Mina de Boulder, segundo piso | 
+567 | Nivel 3 | 
+568 | Mina de Boulder, cuarto piso | 
+569 | Mina Boulder, Piso Cinco | 
+570 | Mina Boulder, Piso 6 | 
+571 | Mina Boulder, séptimo piso | 
+572 | Mina de Boulder, nivel octavo | 
+573 | Mina Boulder, noveno piso | 
+574 | Mina Boulder, Piso Diez | 
+575 | ¿Mina de Boulder? Piso undécimo | 
+576 | Mina de Boulder, segundo piso | 
+577 | Mina Boulder, decimotercer piso | 
+578 | Mina Boulder, decimocuarto piso | 
+579 | Mina Boulder, decimoquinto piso | 
+580 | Mina Boulder, decimosexto piso | 
+581 | Mina de cristales de hielo de primera clase | 
+582 | Mina de cristales de hielo | 
+583 | Mina de cristal de hielo de nivel 3 | 
+584 | Mina de cristales de hielo, nivel 4 | 
+585 | Mina de cristales de hielo del quinto piso | 
+586 | Mina de cristales de hielo, piso 6 | 
+587 | Mina de cristales de hielo, nivel 7 | 
+588 | Mina de cristales de hielo, nivel 8 | 
+589 | Mina de cristales de hielo, noveno piso | 
+590 | Mina de cristales de hielo del décimo piso | 
+591 | Mina de cristales de hielo del undécimo piso | 
+592 | Mina de cristales de hielo del segundo piso | 
+593 | Mina de cristales de hielo del decimotercer piso | 
+594 | Mina de hielo de cristal del decimocuarto piso | 
+595 | Mina de cristales de hielo del decimoquinto piso | 
+596 | Mina de cristales de hielo del decimosexto piso | 
+597 | Manee: "¡Ha aparecido el guardia de la mina, ten cuidado!" | 
+598 | "PD Unzoni: ¡Sellado al siguiente nivel, el tiempo casi se acaba! Tenemos que acelerar nuestro ritmo ~ "| 
+599 | Unsoni: "Parece que no hay un piso siguiente ~ Levanta tus cosas y sal de aquí antes de que la mina se derrumbe. | 
+600 | "Omi: ¡Esta ciudad está a punto de colapsar, mani! ¡Unzoni! ¿Qué tal ustedes ~ Sube a mi helicóptero? "| 
+601 | Enviar a Kommun a un helicóptero en ese momento, y todos regresaron a la mansión sin que sucediera nada ... | 
+602 | ¡Una especie rara aparece en el puente terrestre de Beihai, búscalo y derrótalo! | 
+603 | ¡Una especie rara aparece en el bosque destruido, encuéntrala y derrótala! | 
+604 | ¡Los gusanos gigantes con ojos de mandíbula causan estragos en las especies nativas del puente terrestre de Beihai, así que da un paso adelante y derrótalo! | 
+605 | ¡Los gusanos gigantes con ojos de mandíbula están causando estragos en las bestias destruidas que se avecinan y los derrotan! | 
+606 | Hip-Hal Red está royendo al gato de la luna plateada, ¡así que aprovecha rápidamente esta oportunidad para derribarlo! | 
+607 | Mina volcánica del primer piso | 
+608 | Mina volcánica del segundo piso | 
+609 | Mina volcánica de nivel 3 | 
+610 | Mina volcánica, nivel 4 | 
+611 | Mina Volcánica Quinto Piso | 
+612 | Mina volcánica del sexto piso | 
+613 | Mina volcánica, nivel 7 | 
+614 | Mina Volcánica Octavo Piso | 
+615 | Mina Volcánica Planta Baja | 
+616 | La Décima Mina Volcánica | 
+617 | Mina Volcánica Piso Undécimo | 
+618 | Mina volcánica del segundo piso | 
+619 | Mina volcánica del decimotercer piso | 
+620 | Mina volcánica del decimocuarto piso | 
+621 | Mina Volcánica Piso Decimoquinto | 
+622 | Mina volcánica del piso dieciséis | 
+623 | De repente, Luna y la Caperucita Roja encantada aparecen en la Fortaleza de Lava, ¡ve y pelea lo antes posible! | 
+624 | Quedan diez segundos, el Guardián está a punto de aparecer | 
+625 | ¡Los guardianes de los tesoros secretos aparecen en los campos de batalla! ¡Vaya inmediatamente cuando esté listo! 
+626 | ¡Han aparecido antiguos guardianes con gran poder en el área de batalla, por favor atácalos inmediatamente! | 
+627 | ¡Los tesoros secretos con la apariencia de un dragón antiguo aparecerán en 30 segundos, así que los retadores sigan intentándolo! | 
+628 | Treinta segundos después, aparece un guardián legendario de la especie de dragón original. ¡Prepárate para el campo de batalla final! 
+629 | ¡El desafío de los últimos vigilantes, derrótalos para la victoria final! | 
+630 | ¡Felicitaciones a todos por el exitoso desafío, obtengan el tesoro secreto que aparece en el lugar de inmediato! | 
+631 | ¡Derrota a todos los monstruos en quince minutos para recibir el mayor honor! | 
+632 | El guardián que controla el área marítima ha aparecido en el área de combate, visite ¡Inmediatamente! Ride s | 
+633 | El combate de aprendices comenzará después de que estés listo y en movimiento, prepárate | 
+634 | La desesperación se ha apoderado del mundo y afecta la mente de todos. | 
+635 | ¡Transmita inmediatamente la energía positiva de la esperanza a todos y derrote la energía oscura para salvar el mundo! | 
+636 | Ir a la sala de conciertos para escuchar cantar Meuse | 
+637 | Usa la esperanza contra la oscura energía de la desesperación | 
+638 | ¡El aliento de la desesperación se desvanece, elimina la energía oscura ahora! | 
+639 | El poder de las tinieblas ha sido destruido. ¡Gracias por su esperanza de que la energía ayude a todos! 
+640 | ¡Aparecen suficientes explosivos, meteoritos bombarderos y amistosos embajadores estelares! 
+641 | El número de bombas es suficiente y los encuestados explotan hasta que se abre el meteorito y ¡Apareció aterrador! 
+642 | La cantidad de bombas es suficiente, y los encuestados han explotado, han aparecido meteoros y malvados alienígenas. 
+643 | Una persona amigable parece tener algo con qué hablar con él | 
+644 | ¡El moderador ha huido por su vida, el depredador derrota a la estrella que lucha ante ellos! 
+645 | Los guardianes han huido y los cazadores se apresuran a eliminar a los malvados alienígenas que tienen delante. ¡Esta pequeña Lulu! 
+646 | Fiesta Me animé a ir a disfrutar de la fiesta. 
+647 | ¡La fiesta ha sido destruida por las ninfas invasoras, derrótalas antes de que nadie salga herido! 
+648 | Tú y acertaste con éxito a la no invitada Buboola, y ¡Ta Bu Booleng gritó en voz alta! 
+649 | Recoger salitre mineral. | 
+650 | Participa en la fiesta Bumblebee | 
+651 | ¡Siéntate en medio del festín y empieza a comer salvajemente, ataca mientras se relaja! | 
+652 | ¡Las bestias de Nian rugen de ira, listas para ahuyentar a todos los que las molestan para comer! | 
+653 | La fiesta continúa, todos comienzan a felicitarse, crees que es hora de irse | 
+654 | Hay mucho humo negro de la mansión de la derecha, ¡así que apresúrate a la escena para recibir ayuda en caso de desastre! | 
+655 | ¡No importa cómo cruces las llamas y vayas al río a buscar agua para combatir el fuego! | 
+656 | Al acercarse a un cuerpo de agua, se encuentra con dos personas sospechosas con uniformes imperiales ... | 
+657 | ¡No hay tiempo para controlarlos, es importante apagar el fuego! | 
+658 | Fuego adjunto Correctamente deslizado hacia abajo y Que lkyrie escapó a un lugar seguro | 
+659 | Ves a un soldado del Imperio borracho no muy lejos ... Tal vez puedas conseguir algo de él que te permita colarte en el campamento ... | 
+660 | Le quitas el uniforme a un soldado imperial inconsciente y regresas a Valkyrie para cambiarse de ropa. 
+661 | Ahora estás usando el uniforme del Ejército Imperial, y cuando los guardias te detienen, intentas pasar. 
+662 | Definitivamente serás arrestado si te obligan a entrar al cuartel ahora, y regresarás cuando descubras tu camino. | 
+663 | Suena una campana de alarma en el cuartel y te apresuras a huir de regreso a Valkyrie. 
+664 Los oponentes parecen nuevos reclutas que fingen ser un oficial de alto rango para intimidarlo. 
+665 | ¿No sabes quién soy? ¡No sabes quién soy! ¿De verdad? 
+666 Un soldado se siente como un veterano que finge ser un oficial para disuadirlo. 
+667 | Usted hace guardia con cuidado, esperando que le pida a su jefe que se tome una licencia honoraria. 
+668 | Este oficial parece ser un oficial de clase media, pretendiendo ser un detective enviado por el Ejército Central. 
+669 | Soy el enviado por el gobierno federal para una patrulla sorpresa, los cuarteles han sido infiltrados y destruidos por todas partes, ¡solo tienes tres minutos para encontrar todos los daños! | 
+670 | Pedir prestados uniformes del ejército imperial | 
+671 | ¡Valkiri cayó del cielo! 
+672 | "Huh, humanidad: ¿Cómo entiendes la grandeza de la naturaleza ~" | 
+673 | "Kherping: ¡Humanos, como te tratan!" | 
+674 | "Kuerping: ¿Qué quieres hacer? ¡Detente! ¡Te ordené que te detuvieras! "| 
+675 | "Warm: Por qué hundirme pegarme ... Tú me ayudas, te lo daré todo ..." | 
+676 | Mai Rong: ¿Qué estás haciendo? Deja de lastimarte ~~~ | 
+677 | Grito de Dunk, Erupong, y después de que todas las bestias se hubieran resuelto, se fue con su cara. 
+678 | Hay muchas garras de bestia en su cuerpo. Pero fue cosido por expertos con hilo de coser y realizó el procedimiento hemostático. 
+679 | No en forma Persona de primeros auxilios Dejado atrás el cadáver de la bestia muerta en el camino Y los rescatadores pueden encontrar | 
+680 | ¡Dama extrañamente vestida sosteniendo la torre de la luz! Y la Torre de la Luz brilla inquietante ... | 
+681 | Te apresuras a decirle a la chica que el dragón de jade en su mano es muy peligroso y esperas que la chica te lo pueda dar | 
+682 | El efecto de la Torre de la Luz en la niña parece ser mínimo ... Preguntas si hay una manera de intercambiar el dragón de jade con la niña | 
+683 | Hay algunos animales raros que viven en la corrupción y tengo algo en lo que Elara estará interesada. | 
+684 | El fragmento de dragón de jade en el dragón de cola corta es un tesoro poderoso, y cuanto más grande es el dragón de cola corta, mayor es el poder del fragmento. 
+685 | Has recibido fragmentos de dragón de jade brillante del jefe dragón de cola corta. Pero quieres estar a la caza de otros tesoros para estar a salvo. 
+686 | El pelaje del gato Evil Eye tiene un patrón especial. Has visto a muchas personas ricas en la ciudad vistiendo abrigos hechos con ese pelaje. 
+687 | Este diseño es tan raro que nunca lo has visto antes, lo sacas y te preparas para intercambiar. 
+688 | Thunder Giant Bird's Claw son los coleccionistas de tesoros que compiten por subasta en Y las garras más grandes y completas valen más. 
+689 | Te cortaste las patas con cuidado, el valor de esta pata debería ser suficiente para comprar una mansión. | 
+690 | Recolectas tres tesoros raros y los llevas de regreso para intercambiar la Torre de la Luz con Elara. | 
+691 | Muestras el pelaje de Lausana y dices que este pelaje puede hacer que cualquiera se interese por la alta sociedad. 
+692 | Tomas la garra de Oxara y explica que es muy valioso | 
+693 | Sacaste el fragmento de dragón de jade de Falador de tu mochila y dijiste apresuradamente que era un material precioso que tanto magos como alquimistas necesitaban. 
+694 | Los tesoros que no encontraste Se ve bien, así que lo preguntas. Doela exactamente, ¿hay algo que quieras intercambiar? 
+695 | Una joya esférica transparente con un patrón especial en ella ... Quizás sea posible regresar a Para City para encontrarla. | 
+696 | ¿Piensas seguir denunciando la situación? Entonces lkyrie volvió a Para encontrar las gemas descritas | 
+697 | Mata los espacios lejanos para conseguir el tesoro | 
+698 | Mata al Verdugo de Lausana para conseguir un tesoro | 
+699 | Mata a Sharona en voz alta para conseguir un tesoro | 
+700 | Encuentras la cueva donde se les dice a los aldeanos, y hay un leve sonido de batalla desde el interior. 
+701 | El sonido de la batalla se hizo cada vez más claro, además del sonido de la espada y la magia, también se mezcló con el rugido de la bestia. | 
+702 | Después de confirmar que tú y Elara habéis llegado a su punto de seguridad, Valkyrie decide saltar y destruir al Dragón de Jade. 
+703 | Ahora usará el punto de vista de Valkyrie para llevar a cabo operaciones para destruir al Dragón de Jade | 
+704 | La energía de Long Yu está completamente dañada, y es correcto dejar que el humano y el ilusionista evacuen primero. | 
+705 | No me afecta la corrupción. Pero tuve que romper la energía de la corrupción para debilitar y profundizar la cueva. 
+706 | "¡Mientras tengas esto, les agradaré más a todos!" | 
+707 | Humanos ... el cuervo nunca se convertirá en un ave fénix por sus plumas multicolores ... | 
+708 | “¡Quiero ser rico y rico! ¡Quiero que todos inclinen la cabeza! ”| 
+709 | Lo único que arrodilla a una persona es un carácter noble, solo la riqueza que no coincide con el carácter conducirá a matar ... | 
+710 | "¡Quiero el poder para cambiar el mundo!" | 
+711 | El mundo está en constante cambio, con o sin poder, y el cambio solo en virtud de él sin cuidado terminará en destrucción ... | 
+712 | Pimea selló completamente este lugar ... no hay forma de avanzar. 
+713 | ¿Qué hago? 
+714 | "Entonces es solo una piedra, no hay necesidad de arrebatar, no hay razón para jactarse" | 
+715 | ¡Long Yu absorbió otros pensamientos además de los malos! De Verdad? ¿De quién es esta idea? 
+716 | "No es necesario conseguir una piedra por accidente" | 
+717 | Mi extraordinario cuerpo humano no puede afectar a Long Yu, la chica de fantasía simplemente hace lo que quiere, no tendrá esta idea ... | 
+718 | La ilusión de ¡Debilitado por este pensamiento y purificado con los pensamientos de alguien! 
+719 | El núcleo dañado de la Torre de la Luz se destruye y el evento termina sin problemas. 
+720 | "Pero los pensamientos honestos son humanos ..." Esta pregunta ha reflexionado durante mucho tiempo sobre Valkyrie. 
+721 | Llevas un uniforme de soldado imperial y piensas mezclarte en el campo imperial. | 
+724 | Diez segundos después, comenzará la Prueba del Rey Dragón. 
+725 | Los Guardianes de los Tres Reyes Dragón han aparecido en el área de batalla esperando que los guerreros estén listos. 
+726 | El guardián del rey dragón aparece en el área de batalla esperando que los guerreros acepten la prueba. 
+727 | La segunda oleada de la Prueba del Rey Dragón aparecerá en 30 segundos, por lo que los Challengers deben estar preparados. 
+728 | Treinta segundos después, se acerca la prueba final del Rey Dragón, así que prepárate. 
+729 | ¡Los Tres Reyes Dragón pondrán a prueba tu fuerza, lucharán y demostrarán a tu dragón que los humanos tienen la fuerza para luchar junto a los dragones! | 
+730 | ¡Tú y tus amigos habéis pasado por duras pruebas y os habéis ganado tesoros secretos en las arenas, ese es el honor que os ha concedido el Rey Dragón! | 
+731 | Las habilidades de los tres reyes dragones tienen efectos adicionales, observa el efecto potenciador en el rey dragón para obtener más información | 
+732 | Los Tres Reyes Dragón están listos para las pruebas dedicadas a los guerreros, completarlas y demostrar su valía. 
+733 | El Rey Dragón de Fuego es una inspiración para su gente y aumenta temporalmente el poder de ataque. 
+734 | El Rey Dragón de Agua usa sus poderes para absorber temporalmente el daño de sus subordinados. 
